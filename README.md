@@ -4,5 +4,8 @@ The Project involves the design and implementation of an autonomous inventory mo
 
 
 
-https://github.com/rishabh-bavithran/InventoryBot-Autonomous-Warehouse-Widget-Inventory-Management/assets/145865695/de04eac6-c925-4ecb-ad4f-724b14ae160c
+https://github.com/Kelvin4915/Inventory_monitoring_and_management_robot/assets/134540002/86787307-262c-4d11-a7cc-63da22de23ea
+
+
+
 
